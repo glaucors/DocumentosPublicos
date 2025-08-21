@@ -2,14 +2,14 @@
 # **DÚVIDAS FREQUENTES SOBRE TECNOLOGIA**
 
 ## **Como resetar o autenticador do e-mail?**
-Você pode acessar o link [Reset automático][https://atendimento.sisbr.coop.br/tas/public/ssp/content/serviceflow?unid=a65d77d5175e470e8c98759165768599&from=8d0eece9-b950-4a40-b067-8e07418e7935&openedFromService=true] ou através do caminho no TOP DESK: Atendimento à cooperativa → Serviços → Correio eletrônico → MFA - Reiniciar 2º fator de autenticação → Automático.
+Você pode acessar o link [Reset automático][https://atendimento.sisbr.coop.br/tas/public/ssp/content/serviceflow?unid=a65d77d5175e470e8c98759165768599&from=8d0eece9-b950-4a40-b067-8e07418e7935&openedFromService=true] ou através do caminho no [TOP DESK][https://atendimento.sisbr.coop.br/tas/public/ssp/content/detail/service?unid=1b39f0a7abdf44929481345a41b012fb&from=8d0eece9-b950-4a40-b067-8e07418e7935]: Atendimento à cooperativa → Serviços → Correio eletrônico → MFA - Reiniciar 2º fator de autenticação → Automático.
 
 
 Após acessar o link ou o caminho citado anteriormente você deve ir em “enviar” e aguardar alguns segundos até o reset concluir.
 
 Observação: Após abrir o chamado, clique no número para visualizar a conclusão do reset do MFA.
 
-Em sequência você deve acessar o seu e-mail através do link: outlook.com/entrar com seu e-mail da cooperativa Ex: muriloc.santos@sicoob.com.br em sequência será solicitado que você faça o recadastro do MFA.
+Em sequência você deve acessar o seu e-mail através do link: [outlook.com/entrar][https://outlook.office365.com/mail/inbox/id/AAQkADUzMWNiNTE5LTIxYjQtNDc0OS1hNWVjLTM3ZjEwNWFlODA1ZQAQAAb3O2uwu/ZPvmeP2/P+NgU=] com seu e-mail da cooperativa Ex: muriloc.santos@sicoob.com.br em sequência será solicitado que você faça o recadastro do MFA.
 
 
 ## **Como resetar/desbloquear o SISBR?**
@@ -17,13 +17,13 @@ No seu computador acesse o sistema SISBR → Clique na opção "Esqueci a Senha
 
 
 ## **Como resetar a senha do meu e-mail?**
-Para resetar a senha do seu e-mail você deve acessar o link Atendimento SISBR ou através do caminho no TOP DESK: Central Unicoob →Tecnologia → Suporte → Correio Eletrônico → Redefinir Senha → Automático.
+Para resetar a senha do seu e-mail você deve acessar o link [Atendimento SISBR][https://atendimento.sisbr.coop.br/tas/public/ssp/content/serviceflow?unid=a210aea50ea54a2a9c7ef869713d4305&from=d554c0cb-574e-47a7-9b7d-3a8b3aa0be4f&openedFromService=true] ou através do caminho no [TOP DESK][https://atendimento.sisbr.coop.br/tas/public/ssp/content/detail/service?unid=39d2e8ae45874b4b973eb1c808cb38c4&from=9ab70d40-0053-4951-8c0b-83df5696fa2f]: Central Unicoob →Tecnologia → Suporte → Correio Eletrônico → Redefinir Senha → Automático.
 
 Após acessar o link ou o caminho citado anteriormente você deve ir em “enviar” e aguardar alguns segundos até o reset concluir.
 
 OBS: Após abrir o chamado, clique no número para visualizar sua senha provisória.
 
-Em sequência você deve acessar o seu e-mail através do link: outlook.com/entrar com seu e-mail da cooperativa Ex: muriloc.santos@sicoob.com.br em sequência será solicitado que você faça a alteração da senha.
+Em sequência você deve acessar o seu e-mail através do link: [outlook.com/entrar][https://outlook.office365.com/mail/inbox/id/AAQkADUzMWNiNTE5LTIxYjQtNDc0OS1hNWVjLTM3ZjEwNWFlODA1ZQAQAAb3O2uwu/ZPvmeP2/P+NgU=] com seu e-mail da cooperativa Ex: muriloc.santos@sicoob.com.br em sequência será solicitado que você faça a alteração da senha.
 
 
 ## **Como resetar a senha do play/intranet/ambiente corporativo sistemas da central e/ou VPN?**
