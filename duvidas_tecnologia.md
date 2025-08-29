@@ -8,7 +8,7 @@ Após acessar o link ou o caminho citado anteriormente você deve ir em “envia
 
 Observação: Após abrir o chamado, clique no número para visualizar a conclusão do reset do MFA.
 
-Em sequência você deve acessar o seu e-mail através do link: outlook.com/entrar com seu e-mail da cooperativa Ex: muriloc.santos@sicoob.com.br em sequência será solicitado que você faça o recadastro do MFA.
+Em sequência você deve acessar o seu e-mail através do link: outlook.com/entrar com seu e-mail da cooperativa Ex: email@email.com.br em sequência será solicitado que você faça o recadastro do MFA.
 
 
 ## **Como resetar/desbloquear o SISBR?**
@@ -22,7 +22,7 @@ Após acessar o link ou o caminho citado anteriormente você deve ir em “envia
 
 OBS: Após abrir o chamado, clique no número para visualizar sua senha provisória.
 
-Em sequência você deve acessar o seu e-mail através do link: outlook.com/entrar com seu e-mail da cooperativa Ex: muriloc.santos@sicoob.com.br em sequência será solicitado que você faça a alteração da senha.
+Em sequência você deve acessar o seu e-mail através do link: outlook.com/entrar com seu e-mail da cooperativa Ex: email@email.com.br em sequência será solicitado que você faça a alteração da senha.
 
 
 ## **Como resetar a senha do play/intranet/ambiente corporativo sistemas da central e/ou VPN?**
