@@ -86,4 +86,3 @@ Você deve efetuar o login no WI-FI do seu Computador: Use suas credenciais cor
 Para Sicoob_Visitantes acessar a rede de visitantes (💻📱convidados e cooperados)
 
 Selecione a rede "Sicoob_Visitantes". Ao escolher esta rede, você será direcionado para a plataforma Wi-Fire, onde é necessário realizar apenas um login básico para liberar o acesso à navegação.
-
